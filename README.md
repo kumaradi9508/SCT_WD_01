@@ -28,7 +28,7 @@ A fully responsive tribute landing page** dedicated to Mahendra Singh Dhoni, bui
 
 ## 🔗 Live Demo
 
-🌐 [Click here to view the live project](https://kumaradi9508.github.io/ms-dhoni-landing-page)  
+🌐 [Click here to view the live project](https://kumaradi9508.github.io/SCT_WD_01)  
 
 
 > *“I like to make statements on the field.” – M.S. Dhoni*
