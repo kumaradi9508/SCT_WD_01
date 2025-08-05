@@ -26,16 +26,6 @@ A fully responsive tribute landing page** dedicated to Mahendra Singh Dhoni, bui
 ---
 
 
-## 🔗 Live Demo
-
-🌐 [Click here to view the live project](https://kumaradi9508.github.io/SCT_WD_01)  
-
-
-> *“I like to make statements on the field.” – M.S. Dhoni*
-
-
----
-
 🙌 Acknowledgments
 This project was built as part of the SkillCraft Technology Internship Task 5. Special thanks to the cricket community and fans who continue to celebrate MS Dhoni’s legacy.
 
